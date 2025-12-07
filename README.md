@@ -3,5 +3,4 @@
 ## Проект 
 Этот репозиторий является каркасом для будущего веб-приложения. 
 
-## Ссылки- [Публичная страница на GitHub Pages](https://familyhome9800-stack.github.io/
- ИМЯ_РЕПОЗИТОРИЯ/) 
+## Ссылки- [Публичная страница на GitHub Pages](https://familyhome9800-stack.github.io/myproject/) 
